@@ -1,5 +1,5 @@
 # Angeles
-Hacks for SpeedHack Team
+SpeedHack Team
 ###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
 
 ## Features
@@ -45,16 +45,13 @@ GM_xmlhttpRequest({
 });
 ```
 
-## Binds
-* **R. Shift** - toggle AirBreak
-* **LEFT** - decrease AirBreak speed
-* **RIGHT** - increase AirBreak speed
-* **Q** - up position for AirBreak
-* **E**- down position for AirBreak
-* **J** - toggle Anti-Aim
-* **R** - explode the missiles (if the missiles are stuck and nothing happens)
-* **INSERT** - toggle visible cheat menu
-* **5** - toggle auto mining
-
-
-
+## Кнопки Активации.
+* **R.Shift** - Включение AirBreak.
+* **Left - >** - Увелечение AirBreak скорости.
+* **Right - <** - Уменьшение AirBreak скорости.
+* **Q** - Поднятия танка для AirBreak.
+* **E**- Опускание танка Для AirBreak.
+* **J** - Включение/Выключение Anti-Aim.
+* **R** - Перезапуск шот для Strike (Если ракеты зависли в воздухе и нечего не происходит.)
+* **Insert and Numpad0** - Включение cheat menu
+* **5** - Включение auto mining.
