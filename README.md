@@ -1,4 +1,4 @@
-# Angeles
+# Cheat for all players to team SH.
 SpeedHack Team
 ###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
 
