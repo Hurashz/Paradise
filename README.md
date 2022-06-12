@@ -1,4 +1,4 @@
-# Cheat for all players to team SH.
+# Free hack by Shizoval
 SpeedHack Team
 ###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
 
