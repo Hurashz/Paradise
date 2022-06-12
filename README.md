@@ -25,7 +25,7 @@ SpeedHack Team
 // @description  SpeedHack Team
 // @author       Angeles
 // @match        https://*.tankionline.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
+// @icon         https://i.pinimg.com/originals/5e/50/d6/5e50d6944fb75490ad6f0133e2de38b9.jpg
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
