@@ -20,7 +20,7 @@ SpeedHack Team
 *   **3.** Paste this code
 ```js
 // ==UserScript==
-// @name         Angeles
+// @name         SpeedHack Team
 // @version      0.3
 // @description  SpeedHack Team
 // @author       Angeles
