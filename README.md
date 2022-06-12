@@ -28,7 +28,7 @@ SpeedHack Team
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
-// @require      https://raw.githubusercontent.com/AngelesCreate/TestHack/main/isKeyPressing.min.js
+// @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
 
 // @grant        GM_xmlhttpRequest
 
