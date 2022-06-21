@@ -2,17 +2,6 @@
 SpeedHack Team
 ###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
 
-## Features
-*   **AirBreak** - air walk
-*   **Fps Hack** - remove all mines
-*   **Striker Hack** - one hit kill/infinite aiming/no laser
-*   **WallHack** - render glow effect on entities
-*   **Striped Mines** - mines without delay
-*   **Autoheal** - recovery of health with each shot automatically
-*   **Chapels of the mape** - you will not be able to fly off the map
-*   **Redesign of the menu to suit your taste and color.** - say me your settings (Angeles#3954)
-*   **Clicker** - includes striped mines
-
 ## Getting started
 
 *   **1.** Install **Tampermonkey** - [TM](https://www.tampermonkey.net/)
