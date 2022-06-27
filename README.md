@@ -25,7 +25,7 @@ xLyna Team
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "https://raw.githubusercontent.com/Hurashz/Paradise/main/Paradisea.min.js",
+  url : "https://raw.githubusercontent.com/Hurashz/Paradise/main/Paradise.min.js",
   nocache: true,
   onload: (ev) =>
   {
