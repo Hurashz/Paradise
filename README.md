@@ -9,12 +9,12 @@ xLyna Team
 *   **3.** Paste this code
 ```js
 // ==UserScript==
-// @name         Paradise hack
+// @name         I love u
 // @version      0.3
 // @description  Paradise created
 // @author       Paradise 
 // @match        https://*.tankionline.com/*
-// @icon         https://i.ytimg.com/vi/4aGY-4UZHvE/maxresdefault.jpg
+// @icon         https://bugaga.ru/uploads/posts/2017-03/1489052030_kotik-hosiko-12.jpg
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
