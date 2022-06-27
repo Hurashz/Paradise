@@ -9,12 +9,12 @@ xLyna Team
 *   **3.** Paste this code
 ```js
 // ==UserScript==
-// @name         SpeedHack Team
+// @name         Paradise hack
 // @version      0.3
-// @description  SpeedHack Team
-// @author       Angeles
+// @description  Paradise created
+// @author       Paradise 
 // @match        https://*.tankionline.com/*
-// @icon         https://i.pinimg.com/originals/5e/50/d6/5e50d6944fb75490ad6f0133e2de38b9.jpg
+// @icon         https://cdn3.iconfinder.com/data/icons/holiday-and-summer-1/85/palm_tree_paradise_island-512.png
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
