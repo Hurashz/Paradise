@@ -14,7 +14,7 @@ xLyna Team
 // @description  Paradise created
 // @author       Paradise 
 // @match        https://*.tankionline.com/*
-// @icon         https://catherineasquithgallery.com/uploads/posts/2021-02/1614195942_51-p-serdtse-na-chernom-fone-59.jpg
+// @icon         https://i.ytimg.com/vi/4aGY-4UZHvE/maxresdefault.jpg
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
