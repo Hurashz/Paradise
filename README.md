@@ -14,7 +14,7 @@ xLyna Team
 // @description  Paradise created
 // @author       Paradise 
 // @match        https://*.tankionline.com/*
-// @icon         https://cdn3.iconfinder.com/data/icons/holiday-and-summer-1/85/palm_tree_paradise_island-512.png
+// @icon         https://catherineasquithgallery.com/uploads/posts/2021-02/1614195942_51-p-serdtse-na-chernom-fone-59.jpg
 
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/jquery.min.js
 // @require      https://raw.githubusercontent.com/AngelesCreate/Hack/main/isKeyPressing.min.js
