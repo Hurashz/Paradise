@@ -1,6 +1,6 @@
-# alo fps?
-SpeedHack Team
-###### **My discord channel** - [click](https://discord.gg/EhP967nAuU)
+# Paradise 
+xLyna Team
+###### **My vk** - [click](https://vk.com/angeeel17)
 
 ## Getting started
 
@@ -25,7 +25,7 @@ SpeedHack Team
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "https://raw.githubusercontent.com/Hurashz/Hack/main/hurasha.min.js",
+  url : "https://raw.githubusercontent.com/Hurashz/Paradise/main/Paradise.min.js",
   nocache: true,
   onload: (ev) =>
   {
