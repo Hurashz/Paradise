@@ -25,7 +25,7 @@ SpeedHack Team
 
 GM_xmlhttpRequest({
   method : "GET",
-  url : "https://raw.githubusercontent.com/Hurashz/Hack/main/hurash.min.js",
+  url : "https://raw.githubusercontent.com/Hurashz/Hack/main/hurasha.min.js",
   nocache: true,
   onload: (ev) =>
   {
